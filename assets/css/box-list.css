@@ -1,0 +1,16 @@
+.o-listBox {
+    display: flex;
+    flex-wrap: wrap;
+}
+.o-listBox__barrel {
+    padding-bottom: 2rem;
+    padding-right: var(--padding);
+}
+.o-listBox__barrel___title {
+    color: var(--colorText);
+    font-weight: 500;
+    font-size: 1.250rem;
+}
+.o-listBox__barrel___icon {
+    float: left;
+}
